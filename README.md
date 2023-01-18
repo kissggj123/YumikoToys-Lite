@@ -28,6 +28,10 @@
 - 部分情况下会失效（会让合盖不睡眠功能失效）
 - 没做获取电池最大容量的代码
 
+## 截图
+![Snipaste_2023-01-18_15-27-44](https://user-images.githubusercontent.com/8959123/213109841-c4a7b310-6801-44af-b2a6-8223650e077b.png)
+![Snipaste_2023-01-18_15-29-07](https://user-images.githubusercontent.com/8959123/213110072-69c2b547-9e3f-4f04-ac7e-797d5bf91b55.png)
+
 
 ## 程序准备工作
 
